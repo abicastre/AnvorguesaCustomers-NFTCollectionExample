@@ -1,4 +1,4 @@
-# Basic Proyect of an NFT collection
+# Basic Project of an NFT collection
 
 This project bases on a ERC-721 collection, that you could mint directly from the smartcontract. It was the simulation of Custumers  variety to a Burger Store.
  Also you can see on OpenSea in the links below.
